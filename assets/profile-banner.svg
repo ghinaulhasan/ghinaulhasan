@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Syed Ghina Ul Hassan — Developer Banner</title>
+<desc id="desc">Premium dark navy and electric blue developer banner with abstract circuit lines.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset=".55" stop-color="#0b2140"/><stop offset="1" stop-color="#102f60"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#2563eb" stop-opacity=".32"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<circle cx="1080" cy="160" r="290" fill="url(#orb)"/>
+<g fill="none" stroke="#60a5fa" stroke-opacity=".24" stroke-width="2">
+  <path d="M800 0v65h95v50h100v-40h110v-45h175"/>
+  <path d="M850 360v-75h90v-48h115v-50h105v-70h120"/>
+  <path d="M1030 0v35h70v55h85v45h95"/>
+  <path d="M940 360v-35h70v-45h90v-55h85"/>
+</g>
+<g fill="#60a5fa" fill-opacity=".75">
+  <circle cx="895" cy="65" r="5"/><circle cx="995" cy="115" r="5"/><circle cx="1100" cy="35" r="5"/><circle cx="940" cy="285" r="5"/><circle cx="1055" cy="237" r="5"/><circle cx="1150" cy="182" r="5"/>
+</g>
+<rect x="74" y="66" width="5" height="224" rx="2.5" fill="url(#glow)"/>
+<text x="112" y="122" fill="#93c5fd" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="5">FULL STACK WEB DEVELOPER</text>
+<text x="108" y="190" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700">Syed Ghina Ul Hassan</text>
+<text x="112" y="232" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="22">Building modern web experiences &amp; digital solutions</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600">
+ <rect x="112" y="265" width="112" height="34" rx="17" fill="#123b68" stroke="#38bdf8" stroke-opacity=".55"/><text x="168" y="287" text-anchor="middle" fill="#bfdbfe">WEB DEV</text>
+ <rect x="236" y="265" width="112" height="34" rx="17" fill="#123b68" stroke="#38bdf8" stroke-opacity=".55"/><text x="292" y="287" text-anchor="middle" fill="#bfdbfe">E-COMMERCE</text>
+ <rect x="360" y="265" width="128" height="34" rx="17" fill="#123b68" stroke="#38bdf8" stroke-opacity=".55"/><text x="424" y="287" text-anchor="middle" fill="#bfdbfe">DIGITAL SOLUTIONS</text>
+</g>
+<text x="1165" y="318" fill="#93c5fd" font-family="Arial,Helvetica,sans-serif" font-size="14" text-anchor="end" letter-spacing="3">GHINAULHASAN</text>
+</svg>
